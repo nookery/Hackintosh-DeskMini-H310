@@ -498,7 +498,7 @@
 			<key>HibernateMode</key>
 			<string>None</string>
 			<key>PickerMode</key>
-			<string>External</string>
+			<string>Builtin</string>
 			<key>HideAuxiliary</key>
 			<false/>
 			<key>HideSelf</key>
@@ -589,10 +589,10 @@
 				<string>slide=1</string>
 				<key>bootercfg</key>
 				<string>log=0 debug=0 level=0</string>
+				<key>nvda_drv</key>
+				<data>MQ==</data>
 				<key>csr-active-config</key>
 				<data>5wMAAA==</data>
-				<key>nvda_drv</key>
-				<data></data>
 				<key>prev-lang:kbd</key>
 				<data>emgtSGFuczoyNTI=</data>
 			</dict>
@@ -651,7 +651,7 @@
 			<key>AdviseWindows</key>
 			<false/>
 			<key>MLB</key>
-			<string>C02947700GULNV9CB</string>
+			<string>C02912405CDLNV9FB</string>
 			<key>ROM</key>
 			<data>OjP1L+4a</data>
 			<key>SpoofVendor</key>
@@ -659,9 +659,9 @@
 			<key>SystemProductName</key>
 			<string>iMac19,1</string>
 			<key>SystemSerialNumber</key>
-			<string>C02ZQ02KJV3Q</string>
+			<string>C02YGMYEJV3Q</string>
 			<key>SystemUUID</key>
-			<string>4A2A9381-E8C2-42F8-9FD5-1790E8100797</string>
+			<string>0EA2DD09-A533-439D-9D93-B7EEA02FEE1A</string>
 		</dict>
 		<key>UpdateDataHub</key>
 		<true/>
@@ -698,9 +698,8 @@
 			<string>ApfsDriverLoader.efi</string>
 			<string>MemoryAllocation.efi</string>
 			<string>FwRuntimeServices.efi</string>
-			<string>HFSPlus.efi</string>
+			<string>HfsPlus.efi</string>
 			<string>AppleUsbKbDxe.efi</string>
-			<string>BootLiquor.efi</string>
 		</array>
 		<key>Input</key>
 		<dict>
