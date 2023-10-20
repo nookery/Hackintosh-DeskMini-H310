@@ -8,8 +8,32 @@
 - 无线网卡: BCM94360CS2+转接卡
 - 内存: 16G DDR4 X2
 
-# 功能
+# Ventura
 
+## 步骤
+- 先更改 OpenCore 配置文件中的三码
+- 安装系统
+
+## 功能
+- 睡眠唤醒: 正常，睡一晚上唤醒稍微有些慢
+- 蓝牙: 正常
+- Wi-Fi: 正常
+- 有线网卡: 正常
+- 声卡: 正常
+- CPU 变频: 正常
+- Hand Off 接力: OK/正常
+
+# Sonoma
+
+## 步骤
+- 先更改 OpenCore 配置文件中的三码
+- 安装系统
+- 进系统后需要安装 OpenCore-Patcher，Wi-Fi 才能正常
+  - 下载 OpenCore-Patcher
+  - 点击 “Post-Install Root Patch” 按钮
+  - 按提示安装后重启
+ 
+## 功能
 - 睡眠唤醒: 不正常
   - 睡眠后唤醒能听到声音，但屏幕不亮，重新拔插DP线能解决 
 - 蓝牙: 正常
@@ -18,19 +42,3 @@
 - 声卡: 正常
 - CPU 变频: 正常
 - Hand Off 接力: OK/正常
-
-# 使用
-
-## Ventura
-
-- 先更改 OpenCore 配置文件中的三码
-- 安装系统
-
-## Sonoma
-
-- 先更改 OpenCore 配置文件中的三码
-- 安装系统
-- 进系统后需要安装 OpenCore-Patcher，Wi-Fi 才能正常
-  - 下载 OpenCore-Patcher
-  - 点击 “Post-Install Root Patch” 按钮
-  - 按提示安装后重启
