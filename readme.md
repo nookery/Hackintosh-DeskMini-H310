@@ -1,6 +1,6 @@
 # Hackintosh-Deskmini310
 
-# 我的配置
+## 我的配置
 
 - 主板: ASROCK 310-com
 - 硬盘: Fanxiang S500PRO 1TB
@@ -8,9 +8,16 @@
 - 无线网卡: BCM94360CS2+转接卡
 - 内存: 16G DDR4 X2
 
-# Sonoma
+## 使用情况
 
-## 步骤
+自2019年以来，用于
+
+- Web 开发，主要用 VSCode 编辑器
+- Xcode 开发，编译过程明显比 MacBook Air(M1,8G) 慢
+
+## Sonoma
+
+### 步骤
 
 - 先更改 OpenCore 配置文件中的三码
 - 安装系统
@@ -19,19 +26,19 @@
   - 点击 “Post-Install Root Patch” 按钮
   - 按提示安装后重启
 
-## 异常的功能
+### 异常的功能
 
 - 开机后第一次播放音乐会有一声杂音
 - 偶尔出现下午6点睡眠，第二天早上9点唤不醒
   - 后来发现可能和 Parallels 有关   
 
-# Ventura
+## Ventura
 
-## 步骤
+### 步骤
 
 - 先更改 OpenCore 配置文件中的三码
 - 安装系统
 
-## 异常的功能
+### 异常的功能
 
 暂未发现
