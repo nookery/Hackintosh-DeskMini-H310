@@ -42,3 +42,10 @@
 ### 异常的功能
 
 暂未发现
+
+## 致谢
+
+作者没有开发调试 OpenCore 的能力，而是通过查询网络公开资料和以下项目来完成本项目，感谢他们提供的帮助。
+
+- 🎉 <https://github.com/xjn819/Hackintosh-Deskmini310-EFI>
+- 🎉 <https://github.com/hackintosh-club/ASRock-DeskMini-310>
