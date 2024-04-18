@@ -8,6 +8,10 @@
 - 无线网卡: BCM94360CS2+转接卡
 - 内存: 16G DDR4 X2
 
+以及：
+- Magic Mouse
+- Magic Keyboard
+
 ## 使用情况
 
 自2019年以来，用于
