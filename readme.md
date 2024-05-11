@@ -5,12 +5,11 @@
 - 主板: ASROCK 310-com
 - 硬盘: Fanxiang S500PRO 1TB
 - CPU: i7-8700
-- 无线网卡: BCM94360CS2+转接卡
 - 内存: 16G DDR4 X2
-
-以及：
-- Magic Mouse
-- Magic Keyboard
+- 鼠标: Magic Mouse
+- 键盘: Magic Keyboard
+- 显示器: Dell 1080p，通过HDMI连接
+- 无线网卡: BCM94360CS2+转接卡
 
 ## 使用情况
 
@@ -35,6 +34,7 @@
 ### 异常的功能
 
 - 连接某些 Wi-Fi，会导致蓝牙鼠标卡顿
+- HDMI接4K显示器花屏
 
 ## Ventura
 
