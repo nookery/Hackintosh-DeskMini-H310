@@ -8,7 +8,9 @@
 - 内存: 16G DDR4 X2
 - 鼠标: Magic Mouse
 - 键盘: Magic Keyboard
-- 显示器: Dell 1080p，通过HDMI连接
+- 显示器:
+  - Dell 1080p，通过HDMI连接
+  - Aoc 4K，通过DP连接
 - 无线网卡: BCM94360CS2+转接卡
 
 ## 使用情况
