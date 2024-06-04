@@ -26,6 +26,18 @@
 - 蓝牙鼠标、蓝牙键盘的响应速度稍慢
 - 通用控制（一个鼠标控制两个电脑）失败率较高
 
+## BIOS设置
+
+  - CPU Configuration, CPU C states Support, Enabled
+  - CPU Configuration, CPU C states Support, CFG Lock Disabled (必须）
+  - Chipset Configuration, Vt-d, Disabled
+  - Chipset Configuration, Onboard HD Audio: Enabled
+  - USB Configuration, XHCI Hand-off, Enabled  （关键）
+  - Super IO Configuration, Serial Port, Disabled（必须）
+  - Security Secure Boot, Disabled(by default)
+  - Boot, CSM, disabled
+  - BIOS版本必须在4.0及以上。
+
 ## Sonoma
 
 ### 步骤
