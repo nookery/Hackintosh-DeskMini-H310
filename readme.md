@@ -1,5 +1,14 @@
 # Hackintosh-Deskmini310
 
+## 最新情况
+
+2024年8月，因为CPU有些落后，它的工作被Mac mini M2 Pro取代。  
+
+不过，它不但没有被抛弃，还有了更重要的使命：作为一台 All In One 小主机！   
+
+具体的情况记录在这里：  
+<https://github.com/nookery/Deskmini-All-In-One>
+
 ## 我的配置
 
 - 主板: ASROCK 310-com
