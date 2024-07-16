@@ -7,7 +7,7 @@
 不过，它不但没有被抛弃，还有了更重要的使命：作为一台 All In One 小主机！   
 
 具体的情况记录在这里：  
-<https://github.com/nookery/Deskmini-All-In-One>
+<https://cofficlab.github.io/zh/all-in-one/all-in-one.html>
 
 ## 我的配置
 
