@@ -78,6 +78,11 @@
 
 暂未发现
 
+## 用这台电脑开发的项目
+
+- [JuiceEditor 富文本编辑器](https://github.com/CofficLab/JuiceEditor)
+- [Apple 平台的播放器](https://github.com/CofficLab/Cisum_SwiftUI)
+
 ## 致谢
 
 作者没有开发调试 OpenCore 的能力，而是通过查询网络公开资料和参考以下项目来完成本项目，感谢他们提供的帮助。
