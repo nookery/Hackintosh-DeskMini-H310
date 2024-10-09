@@ -1,14 +1,5 @@
 # Hackintosh-Deskmini310
 
-## 最新情况
-
-2024年8月，因为CPU有些落后，它的工作被Mac mini M2 Pro取代。  
-
-不过，它不但没有被抛弃，还有了更重要的使命：作为一台 All In One 小主机！   
-
-具体的情况记录在这里：  
-<https://cofficlab.github.io/zh/all-in-one/all-in-one.html>
-
 ## 我的配置
 
 - 主板: ASROCK 310-com
@@ -26,16 +17,25 @@
 
 自2019年以来，用于
 
-- Web 开发，主要用 VSCode 编辑器
+- Web 开发，主要用 VSCode 编辑器，体验良好
 - Xcode 开发，编译过程明显比 MacBook Air(M1,8G) 慢
 
 目前系统版本14.4 (23E214)。
 
-相比白苹果，不足的地方：
+相比白苹果，不足的地方（可能是天线较差引起的）：
 - 蓝牙鼠标、蓝牙键盘的响应速度稍慢
 - 通用控制（一个鼠标控制两个电脑）失败率较高
 
+2024年8月，因为我的工作对 CPU 的性能要求比较高（如果是普通办公，该 CPU 性能绰绰有余），它的工作被Mac mini M2 Pro取代。  
+
+不过，它不但没有被抛弃，还有了更重要的使命：作为一台 All In One 小主机！   
+
+具体的情况记录在这里：  
+<https://cofficlab.github.io/zh/all-in-one/all-in-one.html>
+
 ## BIOS设置
+
+这部分内容来自：<https://github.com/xjn819/Hackintosh-Deskmini310-EFI>
 
   - CPU Configuration, CPU C states Support, Enabled
   - CPU Configuration, CPU C states Support, CFG Lock Disabled (必须）
@@ -46,6 +46,10 @@
   - Security Secure Boot, Disabled(by default)
   - Boot, CSM, disabled
   - BIOS版本必须在4.0及以上。
+
+## Sequoia
+
+未测试。
 
 ## Sonoma
 
@@ -60,8 +64,8 @@
 
 ### 异常的功能
 
-- 连接某些 Wi-Fi，会导致蓝牙鼠标卡顿
-- HDMI接4K显示器花屏
+- 连接某些 Wi-Fi，会导致蓝牙鼠标卡顿（可能是某些频段的 Wi-Fi 信号干扰蓝牙）
+- HDMI 接4K显示器花屏（所以我的4K显示器接了 DP 接口）
 
 ## Ventura
 
@@ -76,7 +80,7 @@
 
 ## 致谢
 
-作者没有开发调试 OpenCore 的能力，而是通过查询网络公开资料和以下项目来完成本项目，感谢他们提供的帮助。
+作者没有开发调试 OpenCore 的能力，而是通过查询网络公开资料和参考以下项目来完成本项目，感谢他们提供的帮助。
 
 - 🎉 <https://github.com/xjn819/Hackintosh-Deskmini310-EFI>
 - 🎉 <https://github.com/hackintosh-club/ASRock-DeskMini-310>
