@@ -82,6 +82,7 @@
 
 - [JuiceEditor 富文本编辑器](https://github.com/CofficLab/JuiceEditor)
 - [Apple 平台的播放器](https://github.com/CofficLab/Cisum_SwiftUI)
+- [Build-a-Website-with-Laravel](https://github.com/nookery/Build-a-Website-with-Laravel)
 
 ## 致谢
 
