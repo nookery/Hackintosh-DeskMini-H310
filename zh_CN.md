@@ -1,6 +1,6 @@
 # Hackintosh-Deskmini310
 
-[English](./readme.md)
+🌐️ [English](./README.md) | 中文
 
 ## My Configuration
 

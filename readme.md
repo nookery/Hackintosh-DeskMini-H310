@@ -1,6 +1,6 @@
 # Hackintosh-Deskmini310
 
-[中文](./zh_CN.md)
+🌐️ English | [中文](./zh_CN.md)
 
 ## My Configuration
 
