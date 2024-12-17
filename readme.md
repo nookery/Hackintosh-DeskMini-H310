@@ -34,7 +34,7 @@ In August 2024, due to my work requiring higher CPU performance (the CPU would b
 However, it wasn't abandoned but given an even more important mission: serving as an All In One mini computer!
 
 Details are recorded here:
-<https://cofficlab.github.io/zh/all-in-one/all-in-one.html>
+<https://nookery.github.io/Deskmini-All-In-One/>
 
 ## BIOS Settings
 
