@@ -50,7 +50,7 @@
                     <key>Comment</key>
                     <string></string>
                     <key>Enabled</key>
-                    <true/>
+                    <false/>
                     <key>Path</key>
                     <string>SSDT-GPRW.aml</string>
                 </dict>
@@ -69,7 +69,7 @@
                     <key>Count</key>
                     <integer>0</integer>
                     <key>Enabled</key>
-                    <true/>
+                    <false/>
                     <key>Find</key>
                     <data>R1BSVwI=</data>
                     <key>Limit</key>
@@ -181,14 +181,6 @@
                     <data>AQAAAA==</data>
                     <key>framebuffer-con0-pipe</key>
                     <data>EgAAAA==</data>
-                    <key>framebuffer-con1-busid</key>
-                    <data>AgAAAA==</data>
-                    <key>framebuffer-con1-enable</key>
-                    <data>AQAAAA==</data>
-                    <key>framebuffer-con1-pipe</key>
-                    <data>EgAAAA==</data>
-                    <key>framebuffer-con1-type</key>
-                    <data>AAgAAA==</data>
                     <key>framebuffer-con2-enable</key>
                     <data>AQAAAA==</data>
                     <key>framebuffer-con2-index</key>
@@ -618,7 +610,7 @@
                 <key>ThirdPartyDrives</key>
                 <false/>
                 <key>XhciPortLimit</key>
-                <true/>
+                <false/>
             </dict>
             <key>Scheme</key>
             <dict>
@@ -775,7 +767,7 @@
                     <key>SystemAudioVolume</key>
                     <data>Rg==</data>
                     <key>boot-args</key>
-                    <string>igfxonln=1 ipc_control_port_options=0 amfi=0x80 -brcmfxbeta brcmfx-country=HK revpatch=auto,sbvmm,asset</string>
+                    <string>ipc_control_port_options=0 amfi=0x80 -brcmfxbeta brcmfx-country=HK revpatch=auto,sbvmm,asset</string>
                     <key>csr-active-config</key>
                     <data>AwgAAA==</data>
                     <key>prev-lang:kbd</key>
