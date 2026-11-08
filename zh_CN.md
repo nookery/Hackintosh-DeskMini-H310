@@ -83,9 +83,11 @@
 
 ## 用这台电脑开发的项目
 
-- [JuiceEditor 富文本编辑器](https://github.com/CofficLab/JuiceEditor)
-- [Apple 平台的播放器](https://github.com/CofficLab/Cisum_SwiftUI)
-- [Build-a-Website-with-Laravel](https://github.com/nookery/Build-a-Website-with-Laravel)
+- [Cisum 音乐播放器](https://github.com/CofficLab/Cisum) — Apple 平台音乐播放器
+- [TravelMode（Netto）](https://github.com/CofficLab/Netto) — macOS 应用联网控制工具
+- [GitOK](https://github.com/CofficLab/GitOK) — macOS 项目管理工具
+- [Lumi](https://github.com/CofficLab/Lumi) — AI 驱动的 macOS 桌面助手
+- [Wakey](https://github.com/CofficLab/Wakey) — 轻量的 macOS 菜单栏状态助手，支持防休眠
 
 ## 致谢
 

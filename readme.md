@@ -83,9 +83,11 @@ None found yet
 
 ## Projects Developed on This Computer
 
-- [JuiceEditor Rich Text Editor](https://github.com/CofficLab/JuiceEditor)
-- [Apple Platform Player](https://github.com/CofficLab/Cisum_SwiftUI)
-- [Build-a-Website-with-Laravel](https://github.com/nookery/Build-a-Website-with-Laravel)
+- [Cisum](https://github.com/CofficLab/Cisum) — Music player for Apple platforms
+- [TravelMode (Netto)](https://github.com/CofficLab/Netto) — Per-app network access control for macOS
+- [GitOK](https://github.com/CofficLab/GitOK) — Project management tool for macOS
+- [Lumi](https://github.com/CofficLab/Lumi) — AI-powered desktop assistant for macOS
+- [Wakey](https://github.com/CofficLab/Wakey) — Lightweight macOS menu bar assistant with sleep prevention
 
 ## Acknowledgments
 
